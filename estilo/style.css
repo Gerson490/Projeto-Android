@@ -30,7 +30,7 @@
 
 @media (min-width: 368px) {
     a {
-        align-items: auto;
+        align-items: 100%;
     
     }
 }
