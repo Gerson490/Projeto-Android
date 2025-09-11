@@ -29,8 +29,9 @@
 }
 
 @media (min-width: 368px) {
-    nav {
-        width: auto;
+    a {
+        align-items: auto;
+    
     }
 }
 
