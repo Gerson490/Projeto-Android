@@ -28,6 +28,12 @@
     padding: 0px;
 }
 
+@media (min-width: 368px) {
+    nav {
+        width: auto;
+    }
+}
+
 body {
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
